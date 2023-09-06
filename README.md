@@ -2,6 +2,16 @@
 
 This project is initialized with [智能BI可视化系统](https://pro.ant.design). Follow is the quick guide for how to use.
 
+## 页面设计
+
+![智能BI可视化系统-首页](https://github.com/JingYAN1018/BI_System/assets/33095615/ad79b2f6-6de2-46d7-afef-cb7551d42fd9)
+
+![智能BI可视化系统-智能分析（同步）](https://github.com/JingYAN1018/BI_System/assets/33095615/c2dca136-3e31-4ca2-974c-23be944f7c33)
+
+![智能BI可视化系统-智能分析（异步）](https://github.com/JingYAN1018/BI_System/assets/33095615/90c669d0-eec2-4a53-87dc-ec641b3791b3)
+
+![智能BI可视化系统-我的图表](https://github.com/JingYAN1018/BI_System/assets/33095615/9385400f-3051-4960-a061-a9f31965d992)
+
 ## Environment Prepare
 
 Install `node_modules`:
